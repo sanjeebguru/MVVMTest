@@ -11,6 +11,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //test commit
         //commit form master
+
+
+       // another commit
+        
+=======
         //commit in the master branch
+
     }
 }
