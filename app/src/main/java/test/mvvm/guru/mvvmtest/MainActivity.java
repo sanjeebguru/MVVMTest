@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //test commit
-        //token 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
+        //commit form master
     }
 }
